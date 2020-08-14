@@ -1,13 +1,27 @@
 # Java ArrayList
 
-``
+````
 ArrayList = It is the type of , class in java
           = resizable ARRAY (special type of array)
           = inside the "java.util"  package
 
-``
+````
   ## methods of  ArrayList
+   > add()
 
+   > get()
+
+   > set()
+
+   > size() 
+
+   > contains() 
+
+   > remove()
+
+   > clear()
+   
+   
 ## code :
 ```Java
 package codingaliens.com;
