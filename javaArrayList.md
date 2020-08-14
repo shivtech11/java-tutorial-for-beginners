@@ -104,4 +104,10 @@ aliens,shivam,sharma,
 
 ````
 
-* SORTING IN THE ARRAYLIST can be done by just using method sort() from Collections class which is present in *** java.util *** package
+* SORTING IN THE ARRAYLIST can be done by just using method `sort()` from `Collections` class which is present in **java.util** package
+
+Methods | Works 
+--- | --- 
+*add()* | `adding the items` 
+*get()* | **ccessing the items** 
+*get()* | ccessing the items
