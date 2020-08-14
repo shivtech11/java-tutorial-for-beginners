@@ -103,3 +103,5 @@ aliens,shivam,sharma,
 
 
 ````
+
+* SORTING IN THE ARRAYLIST can be done by just using method sort() from Collections class which is present in *** java.util *** package
